@@ -1,1 +1,2 @@
 Aplicación de reserva de salas de computo y equipos 
+https://github.com/Grupo1-G47/Grupo1-G47.git
