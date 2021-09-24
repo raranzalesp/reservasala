@@ -1,2 +1,2 @@
-# reservasala
-AplicacionWeb
+# ReservaSala
+ Reserva de Equipos y Salas
